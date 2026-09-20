@@ -11,3 +11,4 @@
 <div align="center">
   <video src="doc/assembly_vid.mp4" width="600" controls></video>
 </div>
+
